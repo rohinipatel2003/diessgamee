@@ -1,0 +1,15 @@
+.sz{font-size: 6em;
+color: brown;
+font-family: 'Dosis', sans-serif;}
+
+.p1{display: inline-block;
+   padding-left: 5em;
+padding-right: 5em;}
+
+h2{font-family: 'Dosis', sans-serif;
+    font-family: 'Yellowtail', cursive;
+   margin-top: 5px;}
+
+    .ft{height: 5em;
+       padding-top: 1em; 
+    background-color: rgb(171, 190, 190);}
